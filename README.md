@@ -21,10 +21,6 @@ To run the application locally, clone the repository using Git and open the `ind
 
 Once the application is running, users can enter keywords into the search bar and filter their results using the dietary and cuisine preferences. Clicking on a recipe will display detailed information about the recipe, including a list of ingredients, preparation time, cooking instructions, and nutritional information. Users can save recipes to their personal recipe book by clicking the "Save" button on the recipe details modal. Saved recipes can be accessed at any time by clicking the "My Recipes" button in the navigation bar.
 
-Contributing
+## Contributing
 
 Contributions to Recipe Book are welcome and encouraged. To contribute, fork the repository and make any changes you would like. Pull requests should include a detailed description of the changes made and the reasoning behind them.
-
-License
-
-Recipe Book is licensed under the MIT License. See the LICENSE file for more information.
