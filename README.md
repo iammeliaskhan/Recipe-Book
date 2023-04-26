@@ -8,11 +8,11 @@ This project is built using HTML, CSS, and JavaScript, and makes use of the Spoo
 
 Recipe Book offers several features to its users, including:
 
-Recipe search: Users can search for recipes by entering keywords into a search bar, which will return a list of relevant recipes.
-Filtering: Users can filter their search results by selecting dietary and cuisine preferences such as vegetarian, gluten-free, or Italian.
-Recipe details: Clicking on a recipe in the search results will bring up a modal window displaying detailed information about the recipe, including a list of ingredients, preparation time, cooking instructions, and nutritional information.
-Personal recipe book: Users can save recipes to their personal recipe book by clicking the "Save" button on the recipe details modal. Saved recipes are stored locally in the browser's LocalStorage and can be accessed at any time by clicking the "My Recipes" button in the navigation bar.
-User interface: The application features a clean, user-friendly interface that is responsive to different screen sizes and devices.
+- Recipe search: Users can search for recipes by entering keywords into a search bar, which will return a list of relevant recipes.
+- Filtering: Users can filter their search results by selecting dietary and cuisine preferences such as vegetarian, gluten-free, or Italian.
+- Recipe details: Clicking on a recipe in the search results will bring up a modal window displaying detailed information about the recipe, including a list of ingredients, preparation time, cooking instructions, and nutritional information.
+- Personal recipe book: Users can save recipes to their personal recipe book by clicking the "Save" button on the recipe details modal. Saved recipes are stored locally in the browser's LocalStorage and can be accessed at any time by clicking the "My Recipes" button in the navigation bar.
+- User interface: The application features a clean, user-friendly interface that is responsive to different screen sizes and devices.
 Installation
 
 To run the application locally, clone the repository using Git and open the index.html file in a web browser. You will need an API key from Spoonacular, which can be obtained by creating an account on their website and following their API documentation.
