@@ -17,7 +17,7 @@ Recipe Book offers several features to its users, including:
 
 To run the application locally, clone the repository using Git and open the `index.html` file in a web browser. You will need an API key from Spoonacular, which can be obtained by creating an account on their website and following their API documentation.
 
-Usage
+## Usage
 
 Once the application is running, users can enter keywords into the search bar and filter their results using the dietary and cuisine preferences. Clicking on a recipe will display detailed information about the recipe, including a list of ingredients, preparation time, cooking instructions, and nutritional information. Users can save recipes to their personal recipe book by clicking the "Save" button on the recipe details modal. Saved recipes can be accessed at any time by clicking the "My Recipes" button in the navigation bar.
 
