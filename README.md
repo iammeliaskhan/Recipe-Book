@@ -1,4 +1,4 @@
-Recipe Book
+# Recipe Book
 
 Recipe Book is a front-end web application that allows users to search for recipes based on keywords, filter recipes by diet and cuisine preferences, view recipe details including ingredients and nutritional information, and save recipes to a personal recipe book.
 
