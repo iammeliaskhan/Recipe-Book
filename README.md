@@ -15,7 +15,7 @@ Recipe Book offers several features to its users, including:
 - **User interface:** The application features a clean, user-friendly interface that is responsive to different screen sizes and devices.
 Installation
 
-To run the application locally, clone the repository using Git and open the index.html file in a web browser. You will need an API key from Spoonacular, which can be obtained by creating an account on their website and following their API documentation.
+To run the application locally, clone the repository using Git and open the `index.html` file in a web browser. You will need an API key from Spoonacular, which can be obtained by creating an account on their website and following their API documentation.
 
 Usage
 
