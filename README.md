@@ -4,7 +4,7 @@ Recipe Book is a front-end web application that allows users to search for recip
 
 This project is built using HTML, CSS, and JavaScript, and makes use of the Spoonacular API for recipe search functionality. The application follows a Model-View-Controller (MVC) architectural pattern, where the Model represents the data and business logic, the View represents the user interface, and the Controller acts as an intermediary between the Model and View.
 
-Features
+## Features
 
 Recipe Book offers several features to its users, including:
 
